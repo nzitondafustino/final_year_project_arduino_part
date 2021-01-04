@@ -7,7 +7,7 @@
 
 const char* ssid = "MY WIFI 6E8E";           
 const char* password = "MYWIFI5304"; 
-String url = "https://soilmoisturedatalogger.herokuapp.com/add/data?data=";
+String url = "https://umurimams.herokuapp.com/add/data?data=";
 HTTPClient http;
 String SN = "20201220";
 String sdiResponse = "";
